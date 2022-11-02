@@ -14,12 +14,12 @@
     </properties>
 
     <dependencies>
-
         <dependency>
-            <groupId>com.github.dankras</groupId>
-            <artifactId>github-dankras-package</artifactId>
+            <groupId>com.github.krasnykhda</groupId>
+            <artifactId>github-krasnykhda-package</artifactId>
             <version>1.2-SNAPSHOT</version>
         </dependency>
+
     </dependencies>
 
 </project>

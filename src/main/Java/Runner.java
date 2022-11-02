@@ -1,4 +1,4 @@
-import  ru.dankras.collections.*;
+import  ru.dankras.myCollections.*;
 public class Runner {
     public static void main(String[] args) {
 
