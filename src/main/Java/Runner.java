@@ -4,14 +4,14 @@ public class Runner {
 
         MyList<Integer> list = new MyLinkedList<Integer>();
 
-        for (int i = 0; i < 50; i++) {
+        for (int i = 0; i < 500; i++) {
             list.add(i,0);
         }
         System.out.println("   ");
         var size = list.size();
-        for (int i = 0; i < size ; i++) {
+       /* for (int i = 0; i < size ; i++) {
             list.remove(0);
-        }
+        }*/
         for (int i = 0; i < list.size()-2; i++) {
             System.out.println(list.get(i));
         }
