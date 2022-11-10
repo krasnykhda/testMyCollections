@@ -14,6 +14,7 @@
     </properties>
     <dependencies>
         <dependency>
+
             <groupId>com.github.krasnykhda</groupId>
             <artifactId>github-krasnykhda-package</artifactId>
             <version>1.2-SNAPSHOT</version>
