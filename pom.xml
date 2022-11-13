@@ -5,23 +5,21 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>hw02_SpringConfiguration</artifactId>
+    <artifactId>testMyLybrary</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
         <maven.compiler.target>11</maven.compiler.target>
         <maven.compiler.source>11</maven.compiler.source>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-
     <dependencies>
-        <!-- Это зависимость spring-context,
-             содержит базовую функциональность IoC -->
-
         <dependency>
-            <groupId>com.github.dankras</groupId>
-            <artifactId>github-dankras-package</artifactId>
+
+            <groupId>com.github.krasnykhda</groupId>
+            <artifactId>github-krasnykhda-package</artifactId>
             <version>1.2-SNAPSHOT</version>
         </dependency>
+
     </dependencies>
 
 </project>
